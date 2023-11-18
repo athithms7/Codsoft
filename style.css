@@ -1,0 +1,103 @@
+/* Reset some default styles */
+body{
+    background-color: rgb(3, 5, 51);
+    max-width: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+ p {
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: #fff;
+}
+
+/* Basic styling for the header */
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+/* Styling for the about section */
+#about {
+    text-align: center;
+    padding: 20px;
+}
+
+#about img {
+    width: 500px;
+    border-radius: 50%;
+}
+li{
+font-size: x-large;
+    color: rgb(9, 211, 237);
+    font-style: italic;
+}
+/* Styling for the skills section */
+#skills {
+    padding: 20px;
+}
+
+#skills ul {
+    list-style: none;
+}
+
+/* Styling for the projects section */
+#projects {
+    padding: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project img {
+    max-width: 50%;
+}
+h3{
+    color: #fff;
+    size: 15px;
+}
+
+/* Styling for the resume section */
+#resume {
+    text-align: center;
+    padding: 20px;
+}
+
+#resume a {
+    text-decoration: none;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Styling for the contact section */
+#contact {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for the footer */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #ed0a0a;
+    padding: 10px;
+}
